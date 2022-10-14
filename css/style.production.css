@@ -8,7 +8,7 @@
 /* colors used */ 
 
 body {
-    background-color: #6C648B;
+    background-color: #3d3071;
     color: white; 
     font-family:'Lato', sans-serif;
     font-size: 22px;
@@ -48,7 +48,7 @@ button {
     display: inline-block;
     font-family: inherit;
     background-color: #FBA100; 
-    color:#6C648B; 
+    color:#3d3071; 
     border-bottom: 2px solid #6bbaa7;
     padding: 15px ;
     border-radius: 30px;
