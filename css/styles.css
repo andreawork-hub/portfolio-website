@@ -124,6 +124,7 @@ button {
     }
 
     li a { 
+        color: var(--textlight);
         text-decoration: none; 
     }
 
